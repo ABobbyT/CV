@@ -35,3 +35,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+<p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="css,result" data-user="ABobbyT" data-slug-hash="ePPLdq" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid black; margin: 1em 0; padding: 1em;" data-pen-title="8 Point CCS Border-Radius">
+  <span>See the Pen <a href="https://codepen.io/ABobbyT/pen/ePPLdq/">
+  8 Point CCS Border-Radius</a> by Andro Bobby Treurnicht (<a href="https://codepen.io/ABobbyT">@ABobbyT</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
